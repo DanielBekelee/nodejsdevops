@@ -17,6 +17,10 @@ function divide(a, b) {
 
 console.log("Hello from Node.js DevOps demo!");
 console.log("Sum example:", sum(5, 7));
+console.log("thanks");
+console.log("Subtract example:", subtract(10, 4));
+console.log("Multiply example:", multiply(3, 6));
+console.log("Divide example:", divide(20, 5));  
 
 module.exports = { sum, subtract, multiply, divide };
 
