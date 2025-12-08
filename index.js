@@ -21,6 +21,7 @@ console.log("thanks");
 console.log("Subtract example:", subtract(10, 4));
 console.log("Multiply example:", multiply(3, 6));
 console.log("Divide example:", divide(20, 5));  
+console.log("End of calculations.");
 
 module.exports = { sum, subtract, multiply, divide };
 
