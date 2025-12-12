@@ -23,6 +23,8 @@ console.log("Multiply example:", multiply(3, 6));
 console.log("Divide example:", divide(20, 5));  
 console.log("End of calculations.");
 console.log("End of calculations2.");
+console.log("End of calculations3.");
+console.log("End of calculations32.");
 module.exports = { sum, subtract, multiply, divide };
 
 
